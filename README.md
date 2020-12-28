@@ -1,4 +1,4 @@
-# Software Dev Portfolio⚡️
+# Software Dev Portfolio⚡️ [![HitCount](http://hits.dwyl.com/techyhoney/techyhoneygithubio.svg)](http://hits.dwyl.com/techyhoney/techyhoneygithubio)
 
 🚀 A beautiful, lightweight Software Developer Portfolio website that helps you showcase your work and skills.
 This repo consists of an easy-to-customize dev portfolio template that turned into created with CSS and JavaScript. It is lightweight and completely responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The web page is static and is derived production prepared if you just need to feature your records and move. Alternatively, you could edit styles, colors, and scripts fairly easily. The website become built as modular as feasible to make it smooth to shift around styles and content material.
